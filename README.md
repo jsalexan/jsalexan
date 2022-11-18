@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jsalexan
-- 👀 I’m interested in playing ukulele, genealogy, crafts, and dogs.
+- 👀 I’m interested in playing ukulele, genealogy, sewing, cake decorating, and my Doodles.
 - 🌱 I’m currently learning Full Stack Web Development. This week: Handlebars.
 - 💞️ I’m looking to collaborate on front end projects!
 - 📫 How to reach me ...jsa.wa.us@gmail.com or here on GitHub.
