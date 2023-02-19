@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi, I'm Jennifer!<br>A full-stack web developer with a special interest in front end projects and UX.<br>🌱 I’m currently learning C#<br>📫 How to reach me ...jsa.wa.us@gmail.com or here on GitHub.<br>⚡ Fun Facts: I'm a professionally trained chef and used to tour internationally as a theatrical Stage Manager. In my spare time, I enjoy genealogy research, singing, playing my ukuleles, and working on various crafts.<br>
+# 💫 About Me: Jennifer Alexander-Hill
+Hi, I'm Jennifer!<br>A full-stack web developer with a special interest in front end projects and UX.<br>
+👨‍💻 Take a look at my [portfolio](https://portfolio-jah.herokuapp.com/)<br>🌱 I’m currently learning C#<br>📫 How to reach me ...jsa.wa.us@gmail.com or here on GitHub.<br>⚡ Fun Facts: I'm a professionally trained chef and used to tour internationally as a theatrical Stage Manager. In my spare time, I enjoy genealogy research, singing, playing my ukuleles, and working on various crafts.<br>
 
 
 ## 🌐 Socials:
@@ -18,8 +19,6 @@ Hi, I'm Jennifer!<br>A full-stack web developer with a special interest in front
 ---
 [![](https://visitcount.itsvg.in/api?id=jsalexan&icon=0&color=3)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@springling) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
