@@ -1,9 +1,12 @@
+
+!["Bit by bit...putting it together. Jennifer Alexander-Hill" over groovy swirls of yellows and teals](https://github.com/jsalexan/jsalexan/blob/main/GitHub%20top%20-%20JAH.png)
+
+
 # 💫 About Me:
-Hi, I'm Jennifer!<br>A full-stack web developer with a special interest in front end projects and UX.<br>
-👨‍💻 Take a look at my [Portfolio!](https://portfolio-jah.herokuapp.com/)<br>🌱 I’m currently learning C# and doing #JavaScript30 to keep my skills sharp.<br>📫 How to reach me ...jsa.wa.us@gmail.com or here on GitHub.<br>⚡ Fun Facts: I'm a professionally trained chef and used to tour internationally as a theatrical Stage Manager. In my spare time, I enjoy genealogy research, singing, playing my ukuleles, and working on various crafts.<br>
+Hi, I'm Jennifer!<br>A highly creative, full-stack web developer with a special interest in front end projects and UX.<br>
+👨‍💻 Take a look at my [Portfolio!], then let me know what you think.(https://portfolio-jah.herokuapp.com/)<br>🌱 I’m currently learning Python and doing #JavaScript30 to sharpen my skills.<br>📫 How to reach me ...jsa.wa.us@gmail.com or here on GitHub.<br>⚡ Fun Facts: I'm a professionally trained chef and used to tour internationally as a theatrical Stage Manager. In my spare time, I enjoy genealogy research, singing, playing my ukuleles, and working on various crafts.<br>
 
-
-## 🌐 Socials:
+# 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jenniferalexanderhill) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/whimsyclicks) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jennifer-alexander-hill) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/JSAH2000) 
 
 # 💻 Tech Stack:
