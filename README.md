@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jsalexan&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Twitter
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=JSAH2000)]([https://github.com/JSAH2000/github-readme-twitter](https://twitter.com/JSAH2000))
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=JSAH2000)](https://twitter.com/JSAH2000)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jsalexan&icon=0&color=3)](https://visitcount.itsvg.in)
