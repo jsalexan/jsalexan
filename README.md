@@ -13,12 +13,11 @@ Hi, I'm Jennifer!<br>A full-stack web developer with a special interest in front
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jsalexan&theme=blue-green)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jsalexan&theme=swift&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+# Twitter
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=JSAH2000)](https://github.com/JSAH2000/github-readme-twitter)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jsalexan&icon=0&color=3)](https://visitcount.itsvg.in)
 
 
-  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
