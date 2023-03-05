@@ -1,6 +1,3 @@
-
-!["Bit by bit...putting it together. Jennifer Alexander-Hill" over groovy swirls of yellows and teals](https://github.com/jsalexan/jsalexan/blob/main/GitHub%20top%20-%20JAH.png)
-
 # Hi, I'm Jennifer!
 ### A highly creative, full-stack web developer with a special interest in front end projects and UX.<br>
 👨‍💻 Take a look at my [Portfolio](https://portfolio-jah.herokuapp.com/), then let me know what you think.<br>🌱 I’m currently learning Python and doing #JavaScript30 to sharpen my skills.<br>📫 How to reach me ...jsa.wa.us@gmail.com or here on GitHub.<br>⚡ Fun Facts: I'm a professionally trained chef and used to tour internationally as a theatrical Stage Manager. In my spare time, I enjoy genealogy research, singing, playing my ukuleles, and working on various crafts.<br>
