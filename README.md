@@ -1,7 +1,7 @@
 # Hi, I'm Jennifer! [![platypus](https://user-images.githubusercontent.com/110498167/222936054-fb44a004-87e4-46d5-8aec-5e6370c2f86c.png)](https://portfolio-jah.herokuapp.com/)
 
 ### Bridging creativity and functionality in web development.<br>
-👨‍💻 Take a look at my [Portfolio](https://portfolio-jah.herokuapp.com/), then let me know what you think.<br>🌱 I’m currently learning Python and doing #JavaScript30 to sharpen my skills.<br>📫 How to reach me ...jsa.wa.us@gmail.com or here on GitHub.<br>⚡ Fun Facts: I'm a professionally trained chef and used to tour internationally as a theatrical Stage Manager. In my spare time, I enjoy genealogy research, singing, playing my ukuleles, and working on various crafts.<br>
+👨‍💻 Take a look at my [Portfolio](https://portfolio-jah.herokuapp.com/), then let me know what you think.<br>🌱 I’m currently working on [Neet Code 150](https://neetcode.io/practice)  to sharpen my skills, taking classes in UI/UX, and dipping my toes into learning TypeScript.<br>📫 How to reach me ...jsa.wa.us@gmail.com or here on GitHub.<br>⚡ Fun Facts: I'm a professionally trained chef and used to tour internationally as a theatrical Stage Manager. In my spare time, I enjoy genealogy research, singing, playing my ukuleles, and working on various crafts.<br>
 
 # 💻 Tech Stack:
 ![Tech Stack Logos](https://user-images.githubusercontent.com/110498167/228392407-8654151e-12af-4bbd-b85f-f25a8b0aa481.png)
