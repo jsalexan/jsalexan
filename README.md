@@ -10,9 +10,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jsalexan&theme=gotham)<br/>
 
-# Twitter
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=JSAH2000)](https://twitter.com/JSAH2000)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=jsalexan&icon=0&color=3)](https://visitcount.itsvg.in)
 
