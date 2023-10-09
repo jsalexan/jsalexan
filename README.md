@@ -1,4 +1,4 @@
-# Hi, I'm Jennifer! [![platypus](https://user-images.githubusercontent.com/110498167/222936054-fb44a004-87e4-46d5-8aec-5e6370c2f86c.png)](https://portfolio-jah.herokuapp.com/)
+# Hi, I'm Jennifer! [![platypus](https://github.com/jsalexan/react-portfolio/assets/110498167/185549ad-5db9-477a-9380-57b775a7606b)](https://portfolio-jah.herokuapp.com/)
 
 ### Bridging creativity and functionality in web development.<br>
 👨‍💻 Take a look at my [Portfolio](https://portfolio-jah.herokuapp.com/), then let me know what you think.<br>🌱 I’m currently working on [Neet Code 150](https://neetcode.io/practice)  to sharpen my skills, taking classes in UI/UX, and dipping my toes into learning TypeScript.<br>📫 How to reach me ...jsa.wa.us@gmail.com or here on GitHub.<br>⚡ Fun Facts: I'm a professionally trained chef and used to tour internationally as a theatrical Stage Manager. In my spare time, I enjoy genealogy research, singing, playing my ukuleles, and working on various crafts.<br>
