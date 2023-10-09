@@ -5,7 +5,7 @@
 📰 What have I been up to in 2023? Freelance WordPress site development.
 
 # 💻 Tech Stack:
-![Tech Stack Logos](https://user-images.githubusercontent.com/110498167/228392407-8654151e-12af-4bbd-b85f-f25a8b0aa481.png)
+![Tech Stack Logos](https://github.com/jsalexan/muppafones/assets/110498167/6103838c-95e5-42dc-a163-6127b4663ebc)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=jsalexan&hide_border=true&border_radius=5&theme=gotham&locale=en&show_icons=true)
 
